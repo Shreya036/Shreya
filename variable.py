@@ -1,0 +1,1 @@
+print("apple","fruit",sep="_",end=" End")
