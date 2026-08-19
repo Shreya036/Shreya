@@ -1,0 +1,4 @@
+name|age|salary
+anu|22|30000
+rahul|23|40000
+abi|25|50000
